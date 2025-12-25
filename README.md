@@ -12,14 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ykawai1992&show_icons=true&theme=dracula&count_private=true" alt="ykawai1992's GitHub stats" height="150" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykawai1992&theme=dracula&layout=compact" alt="Top Langs" height="150" />
-  </a>
-</p>
-![GitHub stats](https://github-readme-stats-mcgr7enxp-ykawai1992s-projects.vercel.app/api?username=ykawai1992&show_icons=true&theme=vue-dark)
+![GitHub stats](https://github-readme-stats-ykawai1992s-projects.vercel.app/api?username=ykawai1992&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats-mcgr7enxp-ykawai1992s-projects.vercel.app/api/top-langs?username=ykawai1992&layout=compact&theme=vue-dark)
+
+![Top Langs](https://github-readme-stats-ykawai1992s-projects.vercel.app/api/top-langs?username=ykawai1992&layout=compact&theme=vue-dark)
