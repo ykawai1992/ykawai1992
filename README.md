@@ -20,3 +20,4 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykawai1992&theme=dracula&layout=compact" alt="Top Langs" height="150" />
   </a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykawai1992)](https://github.com/ykawai1992/github-readme-stats)
